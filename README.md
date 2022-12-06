@@ -1,4 +1,4 @@
-#Dev Study Notes
+# Dev Study Notes
 
 Desenvolvida uma API REST completa do zero, com diversos endpoints e usando as tecnologias:
 
